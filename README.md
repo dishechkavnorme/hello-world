@@ -1,2 +1,3 @@
 # hello-world
-jast anower repository
+
+hi friends! dishechka is here!
